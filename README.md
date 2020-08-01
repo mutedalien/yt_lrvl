@@ -1,4 +1,4 @@
-# yt_lrvl
+# LARAVEL
 
 По мотивам:                   https://youtu.be/i98TUvjQZyw  </br>
 Официальный сайт Laravel:     https://laravel.com/          </br>
